@@ -129,8 +129,8 @@ function App() {
             <div>
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Contact Us</h3>
               <p className="text-gray-600">
-                Email: sanjay4nalamasa@.com<br />
-                Phone: +91 123 456 7890<br />
+                Email: abhirameerabathini@gmail.com<br />
+                Phone: +91 8768456731<br />
                 Address: Warangal, India
               </p>
             </div>
